@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Blog",
-    "description": "Things that Kenaz thinks about "
+    "description": "Things that Kenaz thinks about ",
+    "postsPerPage": "10"
   },
   "socialnetwork": {},
   "theme": {
